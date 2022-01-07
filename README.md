@@ -1,2 +1,2 @@
-# Smartypannies
-Bibliophile... Math nerd.. Thassit! 
+# STATISTICS STATA PROJECT
+
